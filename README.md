@@ -1,6 +1,8 @@
 # miwifitool-debrick-xiaomi
 mifiwitool is an emergency tool used to recover (debrick) Xiaomi routers that fail to boot properly (bricked) or get stuck during custom firmware installation (e.g., OpenWRT or Padavan). It's mainly used for Xiaomi MiWiFi routers like the Mi Router 3, 3G, 4A, and others.
 
+# Disable antivirus to use MiWiFiTool. Please note that the antivirus might block the procedure during the download.
+
 # mifiwitool.exe (Chinese Windows version)
 What It Is & What It Does
 This is a Chinese‑language Windows executable provided by Xiaomi, typically named something like MiWiFi Repair Tool or Xiaomi …修复工具.exe. It’s used to help unbrick Xiaomi MiWiFi routers when they fail to boot or get stuck during firmware update or flashing.
