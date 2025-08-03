@@ -40,3 +40,4 @@ Inside the tool, select the firmware (.bin file, either China or Global version)
 
 Wait for the process to complete, then force-reset the router. It should reboot with a working firmware installed.
 
+# PLEASE NOTE THAT THE XIAOMI FIRMWARE MENTIONED IS FOR TWO DIFFERENT MODELS: ONE IS FOR THE R4AC MODEL, AND THE OTHER IS FOR THE GIGABIT VERSION MODEL. THESE FIRMWARE VERSIONS CONTAIN VULNERABILITIES COMPATIBLE WITH THE HACK OPENWRT EXPLOIT.
